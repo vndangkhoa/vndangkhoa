@@ -30,7 +30,8 @@
   <li>🔭 Currently building <a href="https://github.com/vndangkhoa/kv-tube">KV-Tube</a> — a self-hosted video streaming platform</li>
   <li>🌱 Deepening my skills in Go, distributed systems, and DevOps</li>
   <li>💬 Ask me about Go, Next.js, Docker, self-hosting, or anything tech</li>
-  <li>📫 Reach me at <a href="mailto:vndangkhoa@gmail.com">vndangkhoa@gmail.com</a></li>
+  <li>📫 Reach me at <a href="mailto:vonguyendangkhoa@gmail.com">vonguyendangkhoa@gmail.com</a></li>
+  <li>🌐 Website: <a href="https://khoavo.myds.me">khoavo.myds.me</a></li>
   <li>⚡ Fun fact: I run my own Forgejo instance and CI runners at home</li>
 </ul>
 

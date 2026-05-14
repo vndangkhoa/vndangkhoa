@@ -81,16 +81,6 @@
 
 ---
 
-<h2>📌 Featured Project</h2>
-
-<p align="center">
-  <a href="https://github.com/vndangkhoa/kv-tube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vndangkhoa&repo=kv-tube&theme=dark&hide_border=true" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vndangkhoa&style=flat-square&color=blue" alt="Profile views" />
 </p>

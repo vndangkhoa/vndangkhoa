@@ -45,7 +45,7 @@ with open('README.md', 'r') as f:
 
 start = '<!-- LATEST_REPO:START -->'
 end = '<!-- LATEST_REPO:END -->'
-replacement = f\"{start}\n🔭 Currently building <a href='{URL}'><b>{NAME}</b></a> — {DESC}\n{end}\"
+replacement = start + chr(10) + chr(128315) + ' Currently building <a href="' + URL + '"><b>' + NAME + '</b></a> ' + chr(8212) + ' ' + DESC + chr(10) + end
 
 new_content = re.sub(
     re.escape(start) + '.*?' + re.escape(end),

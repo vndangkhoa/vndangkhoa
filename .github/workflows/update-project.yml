@@ -38,13 +38,14 @@ for r in repos:
         run: |
           IFS='|' read -r NAME DESC URL <<< "${{ steps.project.outputs.data }}"
           python3 -c "
-import re
+import re, sys
+NAME, DESC, URL = sys.argv[1], sys.argv[2], sys.argv[3]
 with open('README.md', 'r') as f:
     content = f.read()
 
 start = '<!-- LATEST_REPO:START -->'
 end = '<!-- LATEST_REPO:END -->'
-replacement = f\"{start}\n🔭 Currently building <a href='$URL'><b>$NAME</b></a> — $DESC\n{end}\"
+replacement = f\"{start}\n🔭 Currently building <a href='{URL}'><b>{NAME}</b></a> — {DESC}\n{end}\"
 
 new_content = re.sub(
     re.escape(start) + '.*?' + re.escape(end),
@@ -55,7 +56,7 @@ new_content = re.sub(
 
 with open('README.md', 'w') as f:
     f.write(new_content)
-"
+" "$NAME" "$DESC" "$URL"
 
       - name: Check for changes
         id: check

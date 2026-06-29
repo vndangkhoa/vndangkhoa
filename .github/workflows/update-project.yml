@@ -37,3 +37,10 @@ jobs:
           git add README.md
           git commit -m "docs: update latest project [skip ci]"
           git push
+
+      - name: Sync to Forgejo
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git remote add forgejo https://vndangkhoa:${{ secrets.FORGEJO_TOKEN }}@git.khoavo.myds.me/vndangkhoa/vndangkhoa.git
+          git push forgejo main
+          git remote remove forgejo

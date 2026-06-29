@@ -32,7 +32,9 @@
 
 <div align="center">
 
+<!-- LATEST_REPO:START -->
 🔭 Currently building <a href="https://github.com/vndangkhoa/vietc"><b>Vietc</b></a> — a self-hosted video streaming platform
+<!-- LATEST_REPO:END -->
 
 🌱 Deepening my skills in Go, distributed systems, and DevOps
 

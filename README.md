@@ -93,20 +93,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vndangkhoa&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&hide_border=true" width="95%" />
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-umber.vercel.app/api?username=vndangkhoa&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats-eight-umber.vercel.app/api/top-langs?username=vndangkhoa&layout=compact&theme=dark&hide_border=true&langs_count=8" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vndangkhoa&theme=dark&hide_border=true" height="170" />
-</p>
-
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>

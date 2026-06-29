@@ -92,13 +92,6 @@
 
 ---
 
-<h2 align="center">📸 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vndangkhoa&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="80%" />
-</p>
-
----
 
 <h2 align="center">📈 GitHub Activity</h2>
 
@@ -116,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=vndangkhoa&theme=dark&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=vndangkhoa&theme=dark&hide_border=true" height="170" />
 </p>
 
 ---

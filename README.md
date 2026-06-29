@@ -30,12 +30,17 @@
   I enjoy working on projects that are practical, well-architected, and a pleasure to use.
 </p>
 
-<ul>
-  <li>🔭 Currently building <b><a href="https://github.com/vndangkhoa/kv-tube">KV-Tube</a></b> — a self-hosted video streaming platform</li>
-  <li>🌱 Deepening my skills in <b>Go</b>, distributed systems, and DevOps</li>
-  <li>💬 Ask me about Go, Next.js, Docker, self-hosting, or anything tech</li>
-  <li>⚡ Fun fact: I run my own Forgejo instance and CI runners at home</li>
-</ul>
+<div align="center">
+
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-tube"><b>KV-Tube</b></a> — a self-hosted video streaming platform
+
+🌱 Deepening my skills in Go, distributed systems, and DevOps
+
+💬 Ask me about Go, Next.js, Docker, self-hosting, or anything tech
+
+⚡ Fun fact: I run my own Forgejo instance and CI runners at home
+
+</div>
 
 ---
 

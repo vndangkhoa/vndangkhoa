@@ -32,7 +32,7 @@
 
 <div align="center">
 
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-tube"><b>KV-Tube</b></a> — a self-hosted video streaming platform
+🔭 Currently building <a href="https://github.com/vndangkhoa/vietc"><b>Vietc</b></a> — a self-hosted video streaming platform
 
 🌱 Deepening my skills in Go, distributed systems, and DevOps
 

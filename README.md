@@ -99,8 +99,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vndangkhoa&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vndangkhoa&layout=compact&theme=dark&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats-eight-umber.vercel.app/api?username=vndangkhoa&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats-eight-umber.vercel.app/api/top-langs?username=vndangkhoa&layout=compact&theme=dark&hide_border=true&langs_count=8" height="170" />
 </p>
 
 <p align="center">

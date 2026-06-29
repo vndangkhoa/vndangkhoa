@@ -13,9 +13,6 @@
   <a href="https://fb.com/vndangkhoa">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://dev.to/vndangkhoa">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
   <a href="https://khoavo.myds.me">
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
@@ -28,25 +25,17 @@
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-<table align="center">
-  <tr>
-    <td width="60%">
-      <p>
-        I build tools, apps, and systems — from full-stack web apps to self-hosted infrastructure.
-        I enjoy working on projects that are practical, well-architected, and a pleasure to use.
-      </p>
-      <ul>
-        <li>🔭 Currently building <b><a href="https://github.com/vndangkhoa/kv-tube">KV-Tube</a></b> — a self-hosted video streaming platform</li>
-        <li>🌱 Deepening my skills in <b>Go</b>, distributed systems, and DevOps</li>
-        <li>💬 Ask me about Go, Next.js, Docker, self-hosting, or anything tech</li>
-        <li>⚡ Fun fact: I run my own Forgejo instance and CI runners at home</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=vndangkhoa&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=320" height="180" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  I build tools, apps, and systems — from full-stack web apps to self-hosted infrastructure.
+  I enjoy working on projects that are practical, well-architected, and a pleasure to use.
+</p>
+
+<ul>
+  <li>🔭 Currently building <b><a href="https://github.com/vndangkhoa/kv-tube">KV-Tube</a></b> — a self-hosted video streaming platform</li>
+  <li>🌱 Deepening my skills in <b>Go</b>, distributed systems, and DevOps</li>
+  <li>💬 Ask me about Go, Next.js, Docker, self-hosting, or anything tech</li>
+  <li>⚡ Fun fact: I run my own Forgejo instance and CI runners at home</li>
+</ul>
 
 ---
 
@@ -92,7 +81,6 @@
 
 ---
 
-
 <h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
@@ -114,21 +102,10 @@
 
 ---
 
-<h2 align="center">✍️ Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="center">
-  <i>Posts automatically fetched from <a href="https://dev.to/vndangkhoa">dev.to</a></i>
-</p>
-
----
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vndangkhoa/vndangkhoa/output/snake-dark.svg" width="80%" />
+  <img src="https://cdn.jsdelivr.net/gh/vndangkhoa/vndangkhoa@output/snake-dark.svg" width="80%" />
 </p>
 
 ---

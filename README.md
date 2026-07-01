@@ -33,7 +33,7 @@
 <div align="center">
 
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-netflix"><b>kv-netflix</b></a> — No description
+🔭 Currently building <a href="https://github.com/vndangkhoa/vietc"><b>vietc</b></a> — A modern Vietnamese Input Method Engine (IME) for Linux with direct Unicode input—no pre-edit buffer, no underlines.
 <!-- LATEST_REPO:END -->
 
 🌱 Deepening my skills in Go, distributed systems, and DevOps

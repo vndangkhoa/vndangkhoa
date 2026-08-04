@@ -33,7 +33,7 @@
 <div align="center">
 
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-netflix"><b>kv-netflix</b></a> — No description
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-download"><b>kv-download</b></a> — Mobile friendly video downloader
 <!-- LATEST_REPO:END -->
 
 🌱 Deepening my skills in Go, distributed systems, and DevOps

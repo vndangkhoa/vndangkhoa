@@ -103,6 +103,20 @@
 
 ---
 
+<h2 align="center">💖 Support My Work</h2>
+
+<p align="center">
+  If you find my projects helpful, consider buying me a coffee! Your support means a lot and keeps me building.
+</p>
+
+<p align="center">
+  <a href="./donation.jpg">
+    <img src="./donation.jpg" alt="Donation QR code" width="240" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vndangkhoa&style=flat-square&color=58a6ff" alt="Profile views" />
   &nbsp;

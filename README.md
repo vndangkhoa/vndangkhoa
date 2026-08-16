@@ -33,7 +33,7 @@
 <div align="center">
 
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-download"><b>kv-download</b></a> — Mobile friendly video downloader
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-music"><b>kv-music</b></a> — A modern, self-hosted music streaming app powered by YouTube Music
 <!-- LATEST_REPO:END -->
 
 🌱 Deepening my skills in Go, distributed systems, and DevOps

@@ -33,7 +33,7 @@
 <div align="center">
 
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-dl"><b>kv-dl</b></a> — Self-hosted YouTube downloader — Rust (Axum) API + Next.js static UI, yt-dlp + ffmpeg, streams to browser
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-synology"><b>kv-synology</b></a> — Synology DSM Helper - Next.js 15
 <!-- LATEST_REPO:END -->
 
 🌱 Deepening my skills in Go, distributed systems, and DevOps

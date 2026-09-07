@@ -33,7 +33,7 @@
 <div align="center">
 
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-synology"><b>kv-synology</b></a> — Synology DSM Helper - Next.js 15
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-music"><b>kv-music</b></a> — A modern, self-hosted music streaming app powered by YouTube Music
 <!-- LATEST_REPO:END -->
 
 🌱 Deepening my skills in Go, distributed systems, and DevOps

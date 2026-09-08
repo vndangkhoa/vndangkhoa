@@ -33,7 +33,7 @@
 <div align="center">
 
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-music"><b>kv-music</b></a> — A modern, self-hosted music streaming app powered by YouTube Music
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-tube"><b>kv-tube</b></a> — Self-hosted YouTube alternative -- Go + Next.js in a single Docker container
 <!-- LATEST_REPO:END -->
 
 🌱 Deepening my skills in Go, distributed systems, and DevOps

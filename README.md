@@ -33,7 +33,7 @@
 <div align="center">
 
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-netflix"><b>kv-netflix</b></a> — No description
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-tidal"><b>kv-tidal</b></a> — High-Resolution Tidal & Qobuz Music Streaming & Downloader Platform for Synology NAS (Docker & Native SPK) with OpenSubsonic support
 <!-- LATEST_REPO:END -->
 
 🌱 Deepening my skills in Go, distributed systems, and DevOps

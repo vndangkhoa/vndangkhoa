@@ -18,6 +18,9 @@
   <a href="mailto:vonguyendangkhoa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="./llms.txt">
+    <img src="https://img.shields.io/badge/AI_Ready-llms.txt-58a6ff?style=flat-square&logo=openai&logoColor=white" alt="llms.txt" />
+  </a>
 </p>
 
 <p align="center">
@@ -164,5 +167,5 @@
 ---
 
 <div align="center">
-  <sub>Node: <code>synology-kv-01</code> &bull; CI/CD: <code>Forgejo + GitHub Actions</code> &bull; Crafted with 💙 by Khoa Vo</sub>
+  <sub>Node: <code>synology-kv-01</code> &bull; CI/CD: <code>Forgejo + GitHub Actions</code> &bull; Agent Spec: <a href="./llms.txt"><code>llms.txt</code></a> &bull; Crafted with 💙 by Khoa Vo</sub>
 </div>

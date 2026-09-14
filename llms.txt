@@ -1,0 +1,31 @@
+# Khoa Vo (@vndangkhoa)
+
+> Software Engineer, Systems Builder & Homelab Architect based in Vietnam. Specializing in high-performance Go services, full-stack TypeScript/Next.js, Docker infrastructure, and resilient self-hosted cloud environments.
+
+## Quick Identity & Contacts
+- GitHub: https://github.com/vndangkhoa
+- Personal Portal: https://khoavo.myds.me
+- Private Forgejo Instance: https://git.khoavo.myds.me/vndangkhoa
+- LinkedIn: https://www.linkedin.com/in/khoavo93
+- Facebook: https://fb.com/vndangkhoa
+- Email: vonguyendangkhoa@gmail.com
+
+## Technical Stack & Competencies
+- Core Languages: Go (Golang), TypeScript, JavaScript, Python, SQL, HTML5, CSS3
+- Frontend Architecture: Next.js (App Router), React, Tailwind CSS
+- Backend & Systems: Go standard library, concurrency patterns, Node.js, Express.js, SQLite, NGINX
+- DevOps & Homelab: Docker, Linux (Synology DSM / Debian bare-metal runner), Forgejo Git, GitHub Actions, Git
+
+## Key Projects
+- kv-file (https://github.com/vndangkhoa/kv-file): High-performance self-hosted file manager with macOS Miller Columns, Windows Explorer view, and real-time synchronization. Built with Go & TypeScript.
+- kv-netflix (https://github.com/vndangkhoa/kv-netflix): Streaming application and media UI interface experiment.
+- Homelab Node: Private bare-metal cloud running on Synology NAS hosting private Forgejo Git server, automated CI runner cluster, reverse proxy, and storage services.
+
+## Repository Architecture (vndangkhoa/vndangkhoa)
+- Purpose: GitHub Profile README repository rendered on https://github.com/vndangkhoa.
+- README.md: Main profile document featuring custom Homelab Terminal and Bento Grid telemetry.
+- assets/terminal.svg: Standalone SVG/CSS animated terminal window graphic.
+- .github/workflows/update-project.yml: Automated cron job running every 6 hours to fetch latest active project from GitHub API and update README.md, then syncs to Forgejo.
+- .github/workflows/snake.yml: Automated cron job generating contribution snake SVG to the `output` branch.
+- .github/scripts/update_latest_project.py: Python script that safely updates the `<!-- LATEST_REPO:START -->` dynamic block.
+- AGENTS.md: Comprehensive guide for AI coding assistants and autonomous agents.

@@ -39,7 +39,7 @@
 
 ### 📡 Live Radar &amp; Active Builds
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-tidal"><b>kv-tidal</b></a> — High-Resolution Tidal & Qobuz Music Streaming & Downloader Platform for Synology NAS (Docker & Native SPK) with OpenSubsonic support
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-tube"><b>kv-tube</b></a> — Self-hosted YouTube alternative -- Go + Next.js in a single Docker container
 <!-- LATEST_REPO:END -->
 
 - 🏗️ **Core Craft:** Scalable backend systems, high-concurrency Go services & responsive React/Next.js interfaces

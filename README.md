@@ -39,7 +39,7 @@
 
 ### 📡 Live Radar &amp; Active Builds
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-file-pro"><b>kv-file-pro</b></a> — KV Files PRO — Military-Grade Asymmetric Edition
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-netflix"><b>kv-netflix</b></a> — No description
 <!-- LATEST_REPO:END -->
 
 - 🏗️ **Core Craft:** Scalable backend systems, high-concurrency Go services & responsive React/Next.js interfaces

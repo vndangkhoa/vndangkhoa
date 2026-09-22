@@ -39,7 +39,7 @@
 
 ### 📡 Live Radar &amp; Active Builds
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-synology"><b>kv-synology</b></a> — Synology DSM Helper - Next.js 15
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-file"><b>kv-file</b></a> — High-performance self-hosted file manager with macOS Miller Columns, Windows Explorer view, and real-time synchronization.
 <!-- LATEST_REPO:END -->
 
 - 🏗️ **Core Craft:** Scalable backend systems, high-concurrency Go services & responsive React/Next.js interfaces

@@ -39,7 +39,7 @@
 
 ### 📡 Live Radar &amp; Active Builds
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-cv"><b>kv-cv</b></a> — No description
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-trimui"><b>kv-trimui</b></a> — Media application suite for TrimUI Smart Pro (kv-tube, kv-tidal, kv-netflix)
 <!-- LATEST_REPO:END -->
 
 - 🏗️ **Core Craft:** Scalable backend systems, high-concurrency Go services & responsive React/Next.js interfaces

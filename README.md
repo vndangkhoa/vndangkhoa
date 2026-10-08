@@ -31,6 +31,28 @@
   <img src="https://img.shields.io/github/stars/vndangkhoa?style=flat-square&color=58a6ff&logo=apachespark&logoColor=white" alt="Stars" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/vndangkhoa?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="56" alt="Quickdraw" title="Quickdraw: Closed within 5 minutes" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vndangkhoa?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="56" alt="YOLO" title="YOLO: Merged PR without review" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vndangkhoa?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="56" alt="Pull Shark" title="Pull Shark: Merged PRs" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vndangkhoa?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-bronze-797214f41e7e.png" width="56" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored commits" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vndangkhoa?tab=achievements">
+    <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="56" alt="Starstruck" title="Starstruck: Repository with stars" />
+  </a>
+</p>
+
 ---
 
 <table width="100%">

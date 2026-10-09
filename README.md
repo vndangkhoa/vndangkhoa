@@ -61,7 +61,7 @@
 
 ### 📡 Live Radar &amp; Active Builds
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/vietc"><b>vietc</b></a> — A modern Vietnamese Input Method Engine (IME) for Linux with direct Unicode input—no pre-edit buffer, no underlines.
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-cv"><b>kv-cv</b></a> — No description
 <!-- LATEST_REPO:END -->
 
 - 🏗️ **Core Craft:** Scalable backend systems, high-concurrency Go services & responsive React/Next.js interfaces

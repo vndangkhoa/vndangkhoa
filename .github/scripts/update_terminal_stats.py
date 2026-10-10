@@ -70,7 +70,7 @@ def update_svg(svg_path: str = "assets/terminal.svg"):
     stats = fetch_user_stats()
     stats_str = f"Repos: {stats['repos']} | Followers: {stats['followers']} | Following: {stats['following']}"
     content = re.sub(
-        r'(<tspan class="key">GitHub Stats:\s*</tspan><tspan class="val">)(.*?)(</tspan>)',
+        r'(<tspan class="key">Git(Hub)? Stats:\s*</tspan><tspan class="val">)(.*?)(</tspan>)',
         rf'\g<1>{stats_str}\g<3>',
         content
     )

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/telemetry.svg?v=5" width="100%" alt="Khoa Vo - Homelab &amp; Systems Terminal" />
+  <img src="./assets/telemetry-v2.svg" width="100%" alt="Khoa Vo - Homelab &amp; Systems Terminal" />
 </div>
 
 <p align="center">

@@ -78,7 +78,7 @@ def update_svg(svg_path: str):
 
 if __name__ == "__main__":
     base = os.path.join(os.path.dirname(__file__), "../../assets")
-    for fname in ["telemetry.svg", "terminal.svg"]:
+    for fname in ["telemetry-v2.svg", "telemetry.svg", "terminal.svg"]:
         fpath = os.path.join(base, fname)
         if os.path.exists(fpath):
             update_svg(fpath)

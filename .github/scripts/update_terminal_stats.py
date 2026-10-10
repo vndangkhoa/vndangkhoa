@@ -81,7 +81,8 @@ def update_svg(svg_path: str = "assets/terminal.svg"):
     print(f"Successfully updated {svg_path} with Uptime: '{uptime_str}' and Stats: '{stats_str}'")
 
 if __name__ == "__main__":
-    svg_file = os.path.join(os.path.dirname(__file__), "../../assets/terminal.svg")
-    if not os.path.exists(svg_file):
-        svg_file = "assets/terminal.svg"
-    update_svg(svg_file)
+    base = os.path.join(os.path.dirname(__file__), "../../assets")
+    for fname in ["terminal.svg", "telemetry.svg"]:
+        fpath = os.path.join(base, fname)
+        if os.path.exists(fpath):
+            update_svg(fpath)

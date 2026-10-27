@@ -61,7 +61,7 @@
 
 ### 📡 Live Radar &amp; Active Builds
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-netflix"><b>kv-netflix</b></a> — No description
+🔭 Currently building <a href="https://github.com/vndangkhoa/DroidBridge"><b>DroidBridge</b></a> — Dual-Pane Ubuntu <-> Android GUI File Manager & ADB Workstation (Web App & Ubuntu Desktop App in 1)
 <!-- LATEST_REPO:END -->
 
 - 🏗️ **Core Craft:** Scalable backend systems, high-concurrency Go services & responsive React/Next.js interfaces

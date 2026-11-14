@@ -61,7 +61,7 @@
 
 ### 📡 Live Radar &amp; Active Builds
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-music"><b>kv-music</b></a> — A modern, self-hosted music streaming app powered by YouTube Music
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-zalo"><b>kv-zalo</b></a> — A reverse-engineered version of Zalo written in Swift — native macOS client
 <!-- LATEST_REPO:END -->
 
 - 🏗️ **Core Craft:** Scalable backend systems, high-concurrency Go services & responsive React/Next.js interfaces

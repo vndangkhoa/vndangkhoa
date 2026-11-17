@@ -61,7 +61,7 @@
 
 ### 📡 Live Radar &amp; Active Builds
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-zalo"><b>kv-zalo</b></a> — A reverse-engineered version of Zalo written in Swift — native macOS client
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-phimai"><b>kv-phimai</b></a> — KV-PhimAI — Standalone Vietnamese AI Cinema Platform (Go Chi + SQLite + React 19 Noir IMAX Screening Room, powered by KV-Tube)
 <!-- LATEST_REPO:END -->
 
 - 🏗️ **Core Craft:** Scalable backend systems, high-concurrency Go services & responsive React/Next.js interfaces

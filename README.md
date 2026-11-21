@@ -61,7 +61,7 @@
 
 ### 📡 Live Radar &amp; Active Builds
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-phimai"><b>kv-phimai</b></a> — KV-PhimAI — Standalone Vietnamese AI Cinema Platform (Go Chi + SQLite + React 19 Noir IMAX Screening Room, powered by KV-Tube)
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-tube"><b>kv-tube</b></a> — Self-hosted YouTube alternative -- Go + Next.js in a single Docker container
 <!-- LATEST_REPO:END -->
 
 - 🏗️ **Core Craft:** Scalable backend systems, high-concurrency Go services & responsive React/Next.js interfaces

@@ -61,7 +61,7 @@
 
 ### 📡 Live Radar &amp; Active Builds
 <!-- LATEST_REPO:START -->
-🔭 Currently building <a href="https://github.com/vndangkhoa/kv-tv"><b>kv-tv</b></a> — No description
+🔭 Currently building <a href="https://github.com/vndangkhoa/kv-download"><b>kv-download</b></a> — Mobile friendly video downloader
 <!-- LATEST_REPO:END -->
 
 - 🏗️ **Core Craft:** Scalable backend systems, high-concurrency Go services & responsive React/Next.js interfaces
